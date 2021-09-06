@@ -1,0 +1,50 @@
+.menu
+{
+    list-style: none;
+    float: left;
+}
+
+marquee
+{
+    background-color: cyan;
+}
+
+#video
+{
+    margin-left: 300px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    align-content: center;
+}
+
+#sec1CL
+{
+    width: 300px;
+    text-align: center;
+}
+
+#IC
+{
+    width: 350px;
+}
+
+#Modal2
+{
+    margin-top: 150px;
+}
+
+#MH
+{
+    height: 50px;
+}
+
+#ModalBuzz
+{
+    width: 250px;
+    margin-left: 150px;
+}
+
+#myModal
+{
+    margin-top: 150px;
+}
